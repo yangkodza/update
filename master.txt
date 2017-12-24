@@ -2,3 +2,7 @@
 <Version: 1.02>
 /data/map003.jason https://raw.githubusercontent.com/yangkodza/update/master/Map003.json
 <End of Version>
+
+<Version: 1.03>
+/data/map003.jasonhttps://raw.githubusercontent.com/yangkodza/update/master/Map003.json
+<End of Version>
