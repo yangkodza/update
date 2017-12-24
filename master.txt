@@ -1,4 +1,4 @@
 
 <Version: 1.02>
-/data/test.zip https://wordpress.org/latest.zip
+/data/map003.jason 
 <End of Version>
