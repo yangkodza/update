@@ -3,6 +3,7 @@
 /data/map003.jason https://raw.githubusercontent.com/yangkodza/update/master/Map003.json
 <End of Version>
 
-<Version: 1.03>
-/data/map003.jasonhttps://raw.githubusercontent.com/yangkodza/update/master/Map003.json
+<Version: 1.04>
+/data/test.zip https://wordpress.org/latest.zip
+/data/map003.jason https://github.com/yangkodza/update/blob/master/Map003.json
 <End of Version>
